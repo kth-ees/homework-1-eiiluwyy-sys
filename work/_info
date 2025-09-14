@@ -83,23 +83,23 @@ R7
 R8
 vdecoder
 R1
-!s110 1757866154
+!s110 1757866299
 !i10b 1
-!s100 k^MLkAX]j@N64YPM@dTOo0
-ITR;[@n=LfljdQUX[FLYJQ3
+!s100 eCFdQjW5bJeN09MNFO2ij3
+IOSH^822;B[PCFj3A[ZLWz3
 S1
 R0
-w1757866143
+w1757866299
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv
-!i122 61
-L0 12 9
+!i122 64
+R9
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757866154.000000
+!s108 1757866299.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv|
 !i113 0
@@ -107,7 +107,7 @@ R7
 R8
 vdecoder_tb
 R1
-!s110 1757866031
+!s110 1757866261
 !i10b 1
 !s100 NDH:4Za]IFHI;mDchOA[`2
 IgB2;8PhSo4oTZHm2l5l4n1
@@ -116,14 +116,14 @@ R0
 R3
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
-!i122 56
+!i122 62
 L0 1 14
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757866031.000000
+!s108 1757866261.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !i113 0
