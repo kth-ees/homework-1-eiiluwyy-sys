@@ -3,7 +3,7 @@ module bin2bcd (
   output logic [3:0] bcd,
   output logic carry
 );
-  // …
+  // 
   // Add your description here
-  // …
+  //
 endmodule
