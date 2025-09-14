@@ -35,7 +35,7 @@ Z7 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infa
 Z8 tCvgOpt 0
 vbin2bcd_tb
 R1
-!s110 1757857856
+!s110 1757865095
 !i10b 1
 !s100 nDafh<5[6lmj`bc5QXf]E0
 IodB_B=JZDn@e<0i;_jQNB1
@@ -44,14 +44,14 @@ R0
 w1757857621
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv
-!i122 34
+!i122 47
 Z9 L0 1 9
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757857856.000000
+!s108 1757865094.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv|
 !i113 0
@@ -83,23 +83,23 @@ R7
 R8
 vdecoder
 R1
-!s110 1757862132
+!s110 1757866154
 !i10b 1
-!s100 2=2CinzL`S43?al7gOEg71
-IDZ><1l:?Sn`bdCnMLiEla3
+!s100 k^MLkAX]j@N64YPM@dTOo0
+ITR;[@n=LfljdQUX[FLYJQ3
 S1
 R0
-w1757856844
+w1757866143
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv
-!i122 35
-L0 1 10
+!i122 61
+L0 12 9
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757862132.000000
+!s108 1757866154.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv|
 !i113 0
@@ -107,7 +107,7 @@ R7
 R8
 vdecoder_tb
 R1
-!s110 1757863873
+!s110 1757866031
 !i10b 1
 !s100 NDH:4Za]IFHI;mDchOA[`2
 IgB2;8PhSo4oTZHm2l5l4n1
@@ -116,14 +116,14 @@ R0
 R3
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
-!i122 37
+!i122 56
 L0 1 14
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757863873.000000
+!s108 1757866031.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !i113 0
@@ -155,7 +155,7 @@ R7
 R8
 vmultiplier
 R1
-!s110 1757658427
+!s110 1757864135
 !i10b 1
 !s100 V?SJ>>3Of;An^B>V?[e4N0
 IQ3P0OISCQbo1lbQej8EPb0
@@ -164,14 +164,14 @@ R0
 R3
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv
-!i122 13
+!i122 40
 L0 1 8
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757658426.000000
+!s108 1757864135.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv|
 !i113 0
@@ -179,7 +179,7 @@ R7
 R8
 vmultiplier_tb
 R1
-!s110 1757855153
+!s110 1757864136
 !i10b 1
 !s100 cIL;>Q<L8g5fBW>F?Y5nl3
 IQ`gJYASXLS4TYbbdz:MjG3
@@ -188,14 +188,14 @@ R0
 R3
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv
-!i122 14
+!i122 41
 L0 1 5
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757855153.000000
+!s108 1757864136.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv|
 !i113 0
