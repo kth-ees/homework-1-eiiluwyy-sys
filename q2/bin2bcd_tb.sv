@@ -5,5 +5,5 @@ module bin2bcd_tb;
   logic [3:0] bcd;
   logic carry;
 
-  // complete your tb
+  // complete your testbench
 endmodule
