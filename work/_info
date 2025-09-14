@@ -107,7 +107,7 @@ R7
 R8
 vdecoder_tb
 R1
-!s110 1757857828
+!s110 1757863873
 !i10b 1
 !s100 NDH:4Za]IFHI;mDchOA[`2
 IgB2;8PhSo4oTZHm2l5l4n1
@@ -116,14 +116,14 @@ R0
 R3
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
-!i122 32
+!i122 37
 L0 1 14
 R4
 R5
 r1
 !s85 0
 31
-!s108 1757857828.000000
+!s108 1757863873.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !i113 0
