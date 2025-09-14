@@ -11,7 +11,7 @@ module decoder_tb;
   );
 initial begin
 
-  $timeformat(-9, 0, "ns", 6);   // time format(nano_second£¬0£¬"ns"£¬min_widith=6)
+  $timeformat(-9, 0, "ns", 6);   // time format(nano_second, 0, "ns", min_widith=6)
   $monitor("Time = %t, Binary = %4b, One-Hot = %16b",
              $time, binary, one_hot);  //display every case
   

@@ -21,9 +21,9 @@ Z2 w1757613166
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\adder_4.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\adder_4.sv
 !i122 70
-L0 1 7
-Z3 VDg1SIo80bB@j0V0VzS_@n1
-Z4 OL;L;2022.4;75
+Z3 L0 1 7
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2022.4;75
 r1
 !s85 0
 31
@@ -31,11 +31,59 @@ r1
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\adder_4.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\adder_4.sv|
 !i113 0
-Z5 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-Z6 tCvgOpt 0
+Z6 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+varithmetic_right_shifter
+R1
+Z8 !s110 1757881402
+!i10b 1
+!s100 <>PkHQ3[5CDAPZa_^OGL61
+IQhV8Y>=B41jJBl`SZ310d1
+S1
+R0
+R2
+8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter.sv
+Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter.sv
+!i122 93
+Z9 L0 1 8
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1757881401.000000
+!s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter.sv|
+!i113 0
+R6
+R7
+varithmetic_right_shifter_tb
+R1
+Z11 !s110 1757881401
+!i10b 1
+!s100 <M5`5gJi=kfbl2=9VdQFA0
+IQXPW0[_DI[cfG;KhkmO^E0
+S1
+R0
+R2
+8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter_tb.sv
+Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter_tb.sv
+!i122 90
+R3
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter_tb.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q6\arithmetic_right_shifter_tb.sv|
+!i113 0
+R6
+R7
 vbin2bcd
 R1
-!s110 1757866447
+R11
 !i10b 1
 !s100 E^:UE]N1d<o>`V;jKhT0c1
 I;5z6[34GK1`;WJi`m6]<P1
@@ -44,22 +92,22 @@ R0
 w1757866447
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd.sv
-!i122 73
-Z7 L0 1 9
-R3
+!i122 86
+Z12 L0 1 9
 R4
+R5
 r1
 !s85 0
 31
-!s108 1757866447.000000
+R10
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd.sv|
 !i113 0
-R5
 R6
+R7
 vbin2bcd_tb
 R1
-!s110 1757866398
+R8
 !i10b 1
 !s100 nDafh<5[6lmj`bc5QXf]E0
 IodB_B=JZDn@e<0i;_jQNB1
@@ -68,22 +116,118 @@ R0
 w1757866398
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv
-!i122 71
-R7
-R3
+!i122 91
+R12
 R4
+R5
 r1
 !s85 0
 31
-!s108 1757866398.000000
+R10
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q2\bin2bcd_tb.sv|
 !i113 0
-R5
 R6
+R7
+vbin2gray
+R1
+R11
+!i10b 1
+!s100 _779D]MZ715_P4zKBCR4J2
+IW?d=Y2;ZBLU0ndV]AF>Bj3
+S1
+R0
+R2
+8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray.sv
+Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray.sv
+!i122 88
+R9
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray.sv|
+!i113 0
+R6
+R7
+vbin2gray_tb
+R1
+R11
+!i10b 1
+!s100 GDOedZ3jSfTO;@h@7DYB_3
+IkfG:9[WTl[XEMemLZ;SC10
+S1
+R0
+R2
+8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray_tb.sv
+Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray_tb.sv
+!i122 89
+Z13 L0 1 10
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray_tb.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q5\bin2gray_tb.sv|
+!i113 0
+R6
+R7
+vcount_1
+R1
+R8
+!i10b 1
+!s100 cI10P10dfiCg:4i^Zagin1
+IM;H]W<7AYJo5zXga?;KG^1
+S1
+R0
+R2
+8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1.sv
+Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1.sv
+!i122 92
+R9
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1.sv|
+!i113 0
+R6
+R7
+vcount_1_tb
+R1
+R11
+!i10b 1
+!s100 cJ9gGE>eh4gE_2Z7DZHIZ1
+IKXf:KUBP8UD70?DB8JjIY0
+S1
+R0
+R2
+8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1_tb.sv
+Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1_tb.sv
+!i122 87
+R13
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1_tb.sv|
+!s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q4\count_1_tb.sv|
+!i113 0
+R6
+R7
 vcsa_8
 R1
-!s110 1757623928
+!s110 1757881403
 !i10b 1
 !s100 NUz[m8H_3ji]:1O0zA8Nh3
 I?GkV?_S`DI73;i:L77G7>0
@@ -92,22 +236,22 @@ R0
 R2
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\csa_8.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\csa_8.sv
-!i122 4
-R7
-R3
+!i122 94
+R12
 R4
+R5
 r1
 !s85 0
 31
-!s108 1757623928.000000
+R10
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\csa_8.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q3\csa_8.sv|
 !i113 0
-R5
 R6
+R7
 vdecoder
 R1
-!s110 1757881367
+!s110 1757881416
 !i10b 1
 !s100 j[k583Ug4]G;SC9koW5dG1
 IQVnJEST`8T@OLA1CCUE]R1
@@ -116,43 +260,43 @@ R0
 w1757878717
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv
-!i122 85
+!i122 96
 L0 1 29
-R3
 R4
+R5
 r1
 !s85 0
 31
-!s108 1757881367.000000
+!s108 1757881415.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder.sv|
 !i113 0
-R5
 R6
+R7
 vdecoder_tb
 R1
-!s110 1757881366
+!s110 1757881500
 !i10b 1
 !s100 FZDjV_P`D@XmcegJd1^fK3
 IhG>27DVzX8oMQo<ZY8FSk0
 S1
 R0
-w1757881352
+w1757881500
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv
-!i122 84
+!i122 99
 L0 1 34
-R3
 R4
+R5
 r1
 !s85 0
 31
-!s108 1757881366.000000
+!s108 1757881500.000000
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q1\decoder_tb.sv|
 !i113 0
-R5
 R6
+R7
 vmemory
 R1
 !s110 1757877820
@@ -166,8 +310,8 @@ w1757622303
 Fd:\questa\examples\test1.sv
 !i122 75
 L0 1 16
-R3
 R4
+R5
 r1
 !s85 0
 31
@@ -175,8 +319,8 @@ r1
 !s107 d:\questa\examples\test1.sv|
 !s90 -nologo|-work|work|d:\questa\examples\test1.sv|
 !i113 0
-R5
 R6
+R7
 vmultiplier
 R1
 !s110 1757864135
@@ -189,9 +333,9 @@ R2
 8c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv
 !i122 40
-L0 1 8
-R3
+R9
 R4
+R5
 r1
 !s85 0
 31
@@ -199,8 +343,8 @@ r1
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier.sv|
 !i113 0
-R5
 R6
+R7
 vmultiplier_tb
 R1
 !s110 1757864136
@@ -214,8 +358,8 @@ R2
 Fc:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv
 !i122 41
 L0 1 5
-R3
 R4
+R5
 r1
 !s85 0
 31
@@ -223,5 +367,5 @@ r1
 !s107 c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv|
 !s90 -nologo|-work|work|c:\Users\lbw\github-classroom\kth-ees\homework-1-eiiluwyy-sys\q9\multiplier_tb.sv|
 !i113 0
-R5
 R6
+R7
